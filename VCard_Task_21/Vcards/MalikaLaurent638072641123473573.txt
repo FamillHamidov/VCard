@@ -1,0 +1,8 @@
+
+                   BEGIN:VCARD
+                   FN: Malika Laurent
+                   Email: malika.laurent@example.com
+                   Phone: 079 800 30 38
+                   Country: Switzerland
+                   City: Romont (Fr)
+                   END:VCARD

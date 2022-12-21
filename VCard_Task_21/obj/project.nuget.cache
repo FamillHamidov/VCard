@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5bI3KaMEoY5Z88RWDZ77zdZHsrVenoZMISEw5+rNHaF0LMTqKufoxrbYY5wlWQ0hnhF6grUV6c9h+8ZQbTW/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\source\\repos\\VCard_Task\\VCard_Task_21\\VCard_Task_21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\nancy\\1.4.1\\nancy.1.4.1.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\nancy.serialization.jsonnet\\1.4.1\\nancy.serialization.jsonnet.1.4.1.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Nancy 1.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Nancy",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Nancy.Serialization.JsonNet 1.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Nancy.Serialization.JsonNet",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

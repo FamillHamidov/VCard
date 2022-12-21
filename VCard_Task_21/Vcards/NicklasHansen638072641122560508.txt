@@ -1,0 +1,8 @@
+
+                   BEGIN:VCARD
+                   FN: Nicklas Hansen
+                   Email: nicklas.hansen@example.com
+                   Phone: 71640439
+                   Country: Denmark
+                   City: Hornbæk
+                   END:VCARD
